@@ -23,6 +23,6 @@ This project is designed to practice while building something fun and interactiv
 
 2. Run the game:
    ```bash
-   python The-Guessing-Game
+   python app.py
 
 
