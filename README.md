@@ -19,10 +19,10 @@ This project is designed to practice while building something fun and interactiv
 1. Clone this repo:  
    ```bash
    git clone https://github.com/Rehan-666/The-Guessing-Game.git
-   cd The-Guessing-Game```
+   cd The-Guessing-Game
 
 2. Run the game:
    ```bash
-   python The-Guessing-Game```
+   python The-Guessing-Game
 
 
